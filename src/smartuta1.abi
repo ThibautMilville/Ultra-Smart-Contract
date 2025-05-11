@@ -1,0 +1,43 @@
+{
+    "____comment": "This file was generated with eosio-abigen. DO NOT EDIT ",
+    "version": "eosio::abi/1.2",
+    "types": [],
+    "structs": [
+        {
+            "name": "addutaoffer",
+            "base": "",
+            "fields": [
+                {
+                    "name": "uniq",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "delutaoffer",
+            "base": "",
+            "fields": [
+                {
+                    "name": "offerid",
+                    "type": "string"
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "addutaoffer",
+            "type": "addutaoffer",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "delutaoffer",
+            "type": "delutaoffer",
+            "ricardian_contract": ""
+        }
+    ],
+    "tables": [],
+    "ricardian_clauses": [],
+    "variants": [],
+    "action_results": []
+}
