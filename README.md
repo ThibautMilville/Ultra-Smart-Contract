@@ -61,6 +61,15 @@ Ce projet contient un smart contract pour la blockchain Ultra.
 3. Taper "Ultra: Create Wallet" pour importer un wallet existant
 4. Suivre les instructions à l'écran
 
+### Obtention de RAM
+La RAM est essentielle pour le déploiement des smart contracts sur Ultra. Elle est utilisée pour stocker les données et l'état des contrats sur la blockchain.
+
+1. Se connecter à [Ultra Wallet](https://developers.ultra.io/tutorials/guides/how-to-get-ram#purchase-ram)
+2. S'assurer que le wallet est configuré sur le `Testnet`
+3. Utiliser le formulaire sur la page pour acheter de la RAM
+4. Confirmer la transaction dans le wallet
+5. Réitérer l'opération jusqu'à ce que la RAM soit suffisante
+
 ## Déploiement sur le Testnet
 
 ### Déploiement
