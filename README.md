@@ -101,7 +101,7 @@ Ctrl+Shift+P -> Ultra: Create Transaction
 
 ### Problèmes courants
 1. **"Could not create signable API. Wrong password? Bad endpoint?"**
-   - Vérifier que le wallet est bien créé et déverrouillé
+   - Vérifier que le wallet est bien créér et déverrouillé
    - Vérifier que l'extension Ultra est bien installée
    - Redémarrer VSCode si nécessaire
 
