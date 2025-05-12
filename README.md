@@ -17,7 +17,6 @@ Ce projet contient un smart contract pour la blockchain Ultra.
    - C/C++ (Microsoft)
    - C/C++ Extension Pack
    - CMake Tools
-   - CMake
 
 ### Installation des extensions C++
 1. Ouvrir VSCode
